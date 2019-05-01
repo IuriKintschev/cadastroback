@@ -12,3 +12,8 @@ projeto desafio, utilizar o framework Django junto ao DRF (Django Rest Framework
 vscode, win10, pythoon3, Django e DRF (Django Rest Framework)
 
 ```
+## start
+```
+rode o comando para fazer as migrções das tabelas
+a aplicção é bem simples entao rode tudo no sqlite msmo
+```
